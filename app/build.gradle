@@ -32,6 +32,5 @@ dependencies {
     implementation 'com.android.support.constraint:constraint-layout:1.0.2'
 
     compile 'com.google.android.gms:play-services:11.2.2'
-
     compile 'com.google.android.gms:play-services-location:11.2.2'
 }
