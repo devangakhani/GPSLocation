@@ -1,0 +1,6 @@
+.gradle/
+.idea/
+GPSLocation.iml
+app/app.iml
+build/
+local.properties
