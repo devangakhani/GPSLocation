@@ -64,7 +64,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     /**
-     * to register location listner
+     * to register location listener
      */
     private fun registerLocationListner() {
         // initialize location callback object
